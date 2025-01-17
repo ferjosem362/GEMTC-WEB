@@ -80,7 +80,7 @@
     "karma-jasmine": "~4.0.1",
     "karma-junit-reporter": "~2.0.1",
     "karma-webpack": "^5.0.0",
-    "katex": "^0.13.2",
+    "katex": "^0.16.21",
     "mini-css-extract-plugin": "^1.5.0",
     "mocha": "^9.1.1",
     "moment": "^2.29.1",
